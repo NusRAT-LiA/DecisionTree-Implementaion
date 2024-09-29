@@ -89,7 +89,7 @@ The script includes:
 For comparison, the scikit-learn implementation of a Decision Tree classifier is also provided. You can run this version by executing:
 
 ```bash
-python decision_tree_sklearn.py
+python decisionTree2.py
 ```
 This version leverages the DecisionTreeClassifier from scikit-learn to build a classifier with minimal code.
 
