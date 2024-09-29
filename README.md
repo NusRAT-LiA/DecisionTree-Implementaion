@@ -95,7 +95,7 @@ This version leverages the DecisionTreeClassifier from scikit-learn to build a c
 
 ## Comparison
 
-Both implementations achieve similar results when tested on the Iris dataset. The custom implementation showcases how the Decision Tree algorithm works under the hood, while the scikit-learn version is easier to implement and maintain.
+Both implementations achieve almost similar results when tested on the Iris dataset. The custom implementation showcases how the Decision Tree algorithm works under the hood, while the scikit-learn version is easier to implement and maintain.
 
 ### Key differences:
 
